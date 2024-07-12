@@ -10,3 +10,4 @@
 
 🎯 My goal is to landing a job where I know that my unique skills will contribute to the growth of the organization and at the same time provide growth for me. 
 
+💌 Please reach out to me throught Github or LinkedIn
