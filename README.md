@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Lourna Jane Evangelista, a business data analyst.
 
 [![Gmail Badge](https://img.shields.io/badge/-lournareyes@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lournareyes@gmail.com)](mailto:lournareyes@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-lourna-jane-evangelista-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourna-jane-evangelista/)](https://www.linkedin.com/in/lourna-jane-evangelista/)
+[![Linkedin Badge](https://img.shields.io/badge/-lournajaneevangelista-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lournajaneevangelista/)](https://www.linkedin.com/in/lournajaneevangelista/)
 [![GitHub Badge](https://img.shields.io/badge/-lournajaneevangelista-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lournajaneevangelista)](https://github.com/lournajaneevangelista)
 
 🔭 I’m currently working on TripleTen Business Intelligence Analytics to reboot my career. Using my background in Economics and Finance in college and my vast experience in multimedia prodution gives me a unique eye on data analyzation and interpretation. 
